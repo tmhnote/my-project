@@ -1,0 +1,19 @@
+# 编辑器配置
+.vscode/
+.idea/
+
+# Python 运行缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter 运行缓存
+.ipynb_checkpoints/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
